@@ -9,5 +9,8 @@ on the screen.
 
 python manage.py runserver
 
-access factorial api -  
+You can access the Factorial API at this url -  
 localhost:8000/factorial?num={num}
+
+{num} can be replaced with a positive integer for calculating factorial.
+If no num is given then it calculates factorial of 0.
