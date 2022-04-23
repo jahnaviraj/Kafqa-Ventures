@@ -7,7 +7,10 @@ on the screen.
 
 ### Usage
 
+```code
+pip install -r requirements.txt
 python manage.py runserver
+```
 
 You can access the Factorial API at this url -  
 localhost:8000/factorial?num={num}
